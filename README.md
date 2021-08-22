@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1 align="center">¡Hola! 👋, I'm David Polanía</h1>
-<h3 align="center">A passionate Colombian 🇨🇴 Informatics Engineer</h3>
+<h3 align="center">A passionate Colombian Informatics Engineer 🇨🇴 </h3>
 
 <p align="left"> <a href="https://twitter.com/davidpolme" target="blank"><img src="https://img.shields.io/twitter/follow/davidpolme?logo=twitter&style=for-the-badge" alt="davidpolme" /></a> </p>
 
