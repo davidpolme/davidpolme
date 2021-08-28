@@ -28,7 +28,7 @@
 
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=davidpolme&layout=compact&theme=react&show_icons=true&hide_border=true" alt="David's GitHub stats" />
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davidpolme&exclude_repo=FideoGame,connectHealth&hide=html,css,Processing&theme=react&hide_border=true" alt="Top Langs" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davidpolme&exclude_repo=FideoGame,connectHealth&theme=react&hide_border=true&langs_count=8" alt="Top Langs" />
 </p>
 
 <!--
