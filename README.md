@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Golang, Unity - C#, Docker and Azure**
 
-- ⚡ Fun fact: I love to play guitar, piano and read some books 📖📚
+- ⚡ Fun fact: I love to play chess, guitar, piano and read some books 📖📚
 
 - 👨‍💻 You can found more information about me in my website [https://www.dpmsnotes.com/](https://www.dpmsnotes.com/)
 
