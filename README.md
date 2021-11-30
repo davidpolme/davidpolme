@@ -3,11 +3,11 @@
 
 <p align="left"> <a href="https://twitter.com/davidpolme" target="blank"><img src="https://img.shields.io/twitter/follow/davidpolme?logo=twitter&style=for-the-badge" alt="davidpolme" /></a> </p>
 
-- 🔭 Im working on [Dolphin](https://github.com/davidpolme/Dolphin) and [FideoGame](https://github.com/davidpolme/FideoGame) projects
+- 🔭 Im working at Rappi
 
-- 🌱 I’m currently learning **Golang, Unity - C#, Docker and Azure**
+- 🌱 I'm currently learning a bunch of things about backend development
 
-- ⚡ Fun fact: I love to play chess, guitar, piano and read some books 📖📚
+- ⚡ Fun fact: I really enjoy playing among us
 
 - 👨‍💻 You can found more information about me in my website [https://www.dpmsnotes.com/](https://www.dpmsnotes.com/)
 
