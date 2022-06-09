@@ -3,13 +3,11 @@
 
 <p align="left"> <a href="https://twitter.com/davidpolme" target="blank"><img src="https://img.shields.io/twitter/follow/davidpolme?logo=twitter&style=for-the-badge" alt="davidpolme" /></a> </p>
 
-- 🔭 Im working at Rappi
-
 - 🌱 I'm currently learning a bunch of things about backend development
 
 - ⚡ Fun fact: I really enjoy playing among us
 
-- 👨‍💻 You can found more information about me in my website [https://www.dpmsnotes.com/](https://www.dpmsnotes.com/)
+- 👨‍💻 You can found more information about me in my website  [https://www.dpmsnotes.com/](https://www.dpmsnotes.com/) (But its currently under construction)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left"> <a href="https://twitter.com/davidpolme" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="davidpolme" height="30" width="40" /></a>
