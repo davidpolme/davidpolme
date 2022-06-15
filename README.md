@@ -7,7 +7,7 @@
 
 - ⚡ Fun fact: I really enjoy playing among us
 
-- 👨‍💻 You can found more information about me in my website  [https://www.dpmsnotes.com/](https://www.dpmsnotes.com/) (But its currently under construction)
+- 👨‍💻 You can found more information about me in my website  [https://www.dpmsnotes.com/](https://www.dpmsnotes.com/) (Currently under construction)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left"> <a href="https://twitter.com/davidpolme" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="davidpolme" height="30" width="40" /></a>
@@ -15,7 +15,7 @@
 <a href="https://instagram.com/davidpolme" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="davidpolme" height="30" width="40" /></a>
 <a href="https://www.youtube.com/channel/UC4AAPMxfOXYW2KegFrUMA8g" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="davedreams" height="30" width="40" /></a>
 <a href="https://dev.to/davidpolme" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="davidpolme" height="30" width="40" /></a>
-<a href="https://www.dpmsnotes.com/" target="blank"><img align="center" src="https://www.dpmsnotes.com/assets/David6.svg" alt="https://www.dpmsnotes.com/" height="30" width="40" /></a>
+<a href="https://www.dpmsnotes.com/" target="blank"><img align="center" src="/" alt="https://www.dpmsnotes.com/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
