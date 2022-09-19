@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/davidpolme" target="blank"><img src="https://img.shields.io/twitter/follow/davidpolme?logo=twitter&style=for-the-badge" alt="davidpolme" /></a> </p>
 
-- 🌱 I'm currently learning a bunch of things about backend development
+- 🌱 I'm currently learning a bunch of things about fullstack development
 
 - ⚡ Fun fact: I really enjoy playing among us
 <!--
