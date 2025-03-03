@@ -2,16 +2,16 @@
 <h3 align="center">Full Stack Software Engineer | Golang | React | Cloud | AI/ML</h3>
 
 <p align="center">
-  <a href="https://x.com/davidpolme" target="blank">
+  <a href="https://x.com/davidpolme" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/-X-000000?style=for-the-badge&logoColor=white" alt="X Follow" />
   </a>
-  <a href="https://linkedin.com/in/davidpolme" target="blank">
+  <a href="https://linkedin.com/in/davidpolme" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn Profile" />
   </a>
-  <a href="https://dev.to/davidpolme" target="blank">
+  <a href="https://dev.to/davidpolme" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/-DEV.to-black?style=for-the-badge&logo=dev.to" alt="Dev.to Profile" />
   </a>
-  <a href="https://leetcode.com/u/davidpolme/" target="blank">
+  <a href="https://leetcode.com/u/davidpolme/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode Profile" />
   </a>
 </p>
